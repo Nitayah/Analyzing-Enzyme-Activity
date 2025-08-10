@@ -48,4 +48,5 @@ These results passed peer-review in the journal **Protein Science** (Q1) under t
 
 ## Repository Contents
 - **Comparing Enzyme Activity.ipynb** — Full analysis with code, results, and visualizations  
-- **data/** — Processed dataset from Erickson et al. (2022) 
+
+- **data.xlsx** — Processed dataset from Erickson et al. (2022) 
